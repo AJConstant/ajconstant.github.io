@@ -1,1 +1,5 @@
-
+- title : "Home"
+  href: "/"
+ 
+- title: "Projects"
+  href: "/projects/"
